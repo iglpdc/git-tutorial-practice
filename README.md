@@ -31,6 +31,7 @@ standard, so some things won't work in all cases.
 | **Name**      | **Location**  |
 |---------------|---------------|
 | Ivan Gonzalez | Cambridge, MA |
+| Sarah Stevens | Madison, WI |
 
 [daring-fireball]:http://daringfireball.net/projects/markdown/syntax
 [markdown-cheatsheet]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
