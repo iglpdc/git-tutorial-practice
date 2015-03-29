@@ -32,6 +32,7 @@ standard, so some things won't work in all cases.
 |---------------|---------------|
 | Ivan Gonzalez | Cambridge, MA |
 | Sarah Stevens | Madison, WI |
+| John Moreau   | Kansas City, MO |
 
 [daring-fireball]:http://daringfireball.net/projects/markdown/syntax
 [markdown-cheatsheet]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
