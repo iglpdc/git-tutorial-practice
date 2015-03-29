@@ -28,7 +28,8 @@ standard, so some things won't work in all cases.
 
 ## Participants
 
-| **Name** | **Location** |
+| **Name**      | **Location**  |
+|---------------|---------------|
 | Ivan Gonzalez | Cambridge, MA |
 
 [daring-fireball]:http://daringfireball.net/projects/markdown/syntax
