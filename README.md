@@ -26,6 +26,11 @@ standard, so some things won't work in all cases.
 > As with all Software Carpentry activities, you agree to follow [our code of
 > conduct].
 
+## Participants
+
+| **Name** | **Location** |
+| Jessica Gallinger | Saskatoon, SK |
+
 [daring-fireball]:http://daringfireball.net/projects/markdown/syntax
 [markdown-cheatsheet]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [Github]:http://github.com
