@@ -29,6 +29,7 @@ standard, so some things won't work in all cases.
 ## Participants
 
 | **Name** | **Location** |
+| Ivan Gonzalez | Cambridge, MA |
 | Jessica Gallinger | Saskatoon, SK |
 
 [daring-fireball]:http://daringfireball.net/projects/markdown/syntax
